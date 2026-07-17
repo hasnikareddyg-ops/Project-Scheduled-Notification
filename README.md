@@ -1,46 +1,46 @@
-\# 🔔 Python Scheduled Notification System
+# 🔔 Python Scheduled Notification System
 
 
 
-\## 📌 Description
+## 📌 Description
 
 A Python and Streamlit-based application that allows users to schedule reminders and receive desktop notifications automatically at the specified time.
 
 
 
-\## ✨ Features
+## ✨ Features
 
-\- Add reminders
+- Add reminders
 
-\- View reminders
+- View reminders
 
-\- Delete reminders
+- Delete reminders
 
-\- Desktop notifications
+- Desktop notifications
 
-\- Automatic scheduler
+- Automatic scheduler
 
-\- Notification logs
+- Notification logs
 
-\- Reminder status (Pending/Completed)
-
-
-
-\## 🛠 Technologies Used
-
-\- Python
-
-\- Streamlit
-
-\- Plyer
-
-\- JSON
-
-\- Logging
+- Reminder status (Pending/Completed)
 
 
 
-\## 📂 Project Structure
+## 🛠 Technologies Used
+
+- Python
+
+- Streamlit
+
+- Plyer
+
+- JSON
+
+- Logging
+
+
+
+## 📂 Project Structure
 
 
 
@@ -114,25 +114,25 @@ python scheduler.py
 
 
 
-\## 📸 Screenshots
+## 📸 Screenshots
 
 
 
-\- Home Page
+![alt text](./home.png)
 
-\- Add Reminder
+![alt text](./add_remainder.png)
 
-\- Saved Reminders
+![alt text](saved_reminders.png)
 
-\- Notification
+![alt text](Notification.png)
 
-\- Logs
-
-
-
-\## 👨‍💻 Author
+![alt text](./logs.png)
 
 
 
-\*\*Hasnikareddy Guduru\*\*
+## 👨‍💻 Author
+
+
+
+**Hasnikareddy Guduru**
 
